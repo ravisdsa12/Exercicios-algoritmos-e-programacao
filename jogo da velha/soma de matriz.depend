@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1778796912 source:/home/ravi/Documentos/atv ap1/soma de matriz/main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cctype>
+
