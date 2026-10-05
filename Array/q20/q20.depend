@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1779733754 source:/home/ravi/Documentos/atv ap1/lista de array/q20/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

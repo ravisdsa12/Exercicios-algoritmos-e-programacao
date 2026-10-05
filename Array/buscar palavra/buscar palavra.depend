@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1779890074 source:/home/ravi/Documentos/atv ap1/lista de array/buscar palavra/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<cctype>
+
